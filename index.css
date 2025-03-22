@@ -1,0 +1,20 @@
+.titulo{
+    color:rgb(255, 0, 0) ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff0000;
+    font-style: italic;
+    font-weight: bold;
+
+
+}
+#caixa1 h1{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2vw;
+}
+
+#caixa2{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+
+}
