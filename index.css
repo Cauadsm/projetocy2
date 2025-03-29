@@ -16,5 +16,10 @@
 #caixa2{
     color: yellow;
     font-family: 'Times New Roman', Times, serif;
+}
+.al-center{
+    justify-content: center;
+    justify-items: center;
+    display: flex;
 
 }
